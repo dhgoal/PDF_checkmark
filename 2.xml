@@ -1,0 +1,8 @@
+<pdfxml Author="" CreationDate="D:20240425122713+02'00'" ModDate="D:20240425122713+02'00'" Producer="Microsoft: Print To PDF" Title="Microsoft Word - Document2">
+  <LTPage y0="0" y1="792.0" x0="0" x1="612.0" width="612.0" height="792.0" bbox="[0, 0, 612.0, 792.0]" pageid="1" rotate="0" page_index="0" page_label="">
+    <LTImage y0="705.0" y1="720.0" x0="72.0" x1="87.0" width="15.0" height="15.0" bbox="[72.0, 705.0, 87.0, 720.0]" name="Image1" colorspace="[&quot;/DeviceRGB&quot;]" bits="8" imagemask="null" srcsize="[20, 20]" stream="&lt;PDFStream(12): raw=908, {'BitsPerComponent': 8, 'ColorSpace': /'DeviceRGB', 'Filter': /'DCTDecode', 'Height': 20, 'Length': 908, 'Subtype': /'Image', 'Type': /'XObject', 'Width': 20}&gt;">
+      <LTFigure y0="705.0" y1="720.0" x0="72.0" x1="87.0" width="15.0" height="15.0" bbox="[72.0, 705.0, 87.0, 720.0]" name="Image1" matrix="[15.0, 0.0, 0.0, 15.0, 72.0, 705.0]"/>
+    </LTImage>
+    <LTTextLineHorizontal y0="702.047" y1="713.066" x0="87.0" x1="89.49" width="2.49" height="11.019" bbox="[87.0, 702.047, 89.49, 713.066]" word_margin="0.1"> </LTTextLineHorizontal>
+  </LTPage>
+</pdfxml>
